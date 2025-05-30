@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# This script counts the number of files in a given directory.
 # Usage: ./count-files.sh <absolute_directory_path>
 
 if [ $# -ne 1 ]; then
